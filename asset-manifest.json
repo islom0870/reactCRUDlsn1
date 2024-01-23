@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactCRUDlsn1/static/css/main.8bc86813.css",
+    "main.js": "/reactCRUDlsn1/static/js/main.eaa5c827.js",
+    "static/media/house.png": "/reactCRUDlsn1/static/media/house.7fc6ad4d6b29601257de.png",
+    "static/media/house2.png": "/reactCRUDlsn1/static/media/house2.951bf1fbdee3928f94ff.png",
+    "static/media/house3.png": "/reactCRUDlsn1/static/media/house3.4caae88ed4e25a39ae94.png",
+    "index.html": "/reactCRUDlsn1/index.html",
+    "main.8bc86813.css.map": "/reactCRUDlsn1/static/css/main.8bc86813.css.map",
+    "main.eaa5c827.js.map": "/reactCRUDlsn1/static/js/main.eaa5c827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc86813.css",
+    "static/js/main.eaa5c827.js"
+  ]
+}
